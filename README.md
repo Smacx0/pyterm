@@ -17,10 +17,10 @@ Python based **GUI Terminal** developed using standard tkinter package ("Tk inte
 
 ### Limitations
 ------
-* Change of directory in one shell will effect to other shells too. 
+* Change of directory in one shell will effects the other shells too. 
 
 
-## Installion
+## Installation
 You can download the zipfile by clicking  [here](https://github.com/Smac01/pyterm/archive/main.zip). 
 
 ```
