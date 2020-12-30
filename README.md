@@ -1,7 +1,7 @@
 ## Python GUI Terminal
 [![Python 3.x](https://img.shields.io/badge/python-3.x-brightgreen.svg)](https://www.python.org/)
 
-Python based **GUI Terminal** developed using standard tkinter package ("Tk interface") with key binding similar Linux terminal. In addition, it includes python interpreter. Terminal uses *Subprocess* and *Os * modules to run system commands.
+Python based **GUI Terminal** developed using standard tkinter package ("Tk interface") with key binding similar Linux terminal. In addition, it includes python interpreter. Terminal uses *Subprocess* and *Os* modules to run system commands.
 
 
 
