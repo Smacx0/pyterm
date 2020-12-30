@@ -11,13 +11,13 @@ Python based **GUI Terminal** developed using standard tkinter package ("Tk inte
 
 ### Features
 ------
-<span style="color:#33cc59">:fa-check:</span> Terminal :fa-terminal: based look and Key bindings.
-<span style="color:#33cc59">:fa-check:</span> Easy customization.
-<span style="color:#33cc59">:fa-check:</span> Support Python Interpreter.
+- Terminal :fa-terminal: based look and Key bindings.
+- Easy customization.
+- Support Python Interpreter.
 
 ### Limitations
 ------
-<span style="color:#ff0000">:fa-times:</span> Change of directory in one shell will effect to other shells too. 
+Change of directory in one shell will effect to other shells too. 
 
 
 ## Installion
@@ -28,4 +28,4 @@ git clone https://github.com/Smac01/pyterm.git
 cd pyterm
 ```
 
-<p style="font-family: ;">Designed with <span style="color:#ff0000;">:fa-heart:</span> and suggestions are heartily welcomed :tw-1f341:. </p>
+Designed with :blue_heart: and suggestions are heartily welcomed.
